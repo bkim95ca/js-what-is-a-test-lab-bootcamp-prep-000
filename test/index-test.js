@@ -22,4 +22,3 @@ describe('what-is-a-test', () => {
   })
 
 })
-module.exports = {name, height, message}
